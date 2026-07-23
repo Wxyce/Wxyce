@@ -1,6 +1,7 @@
 ### Hey there!
 
 I work on fun projects on the side as a hobby beside school.
+
 I'm currently learning the Electron framework, AI, CAD and studying a lot for school.
 
 ## Tools:
